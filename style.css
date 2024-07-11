@@ -1,0 +1,18 @@
+ul>li{
+    list-style: none;
+    text-decoration: none;
+    margin-right: 50px;
+    margin-left: 20px;
+}
+
+ul{
+    display: flex;
+    margin-left: auto;
+}
+
+nav{
+    display:flex;
+    align-items: center;
+    background-color: azure;
+    padding-inline: 50px;
+}
